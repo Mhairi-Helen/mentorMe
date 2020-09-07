@@ -1,0 +1,32 @@
+{
+    "mentors": [
+        {
+            "id": "1",
+            "name": "Jane Doe",
+            "industry": "technology",
+            "company": "Awesome Software Inc",
+            "title": "Software Guru",
+            "location": "Berlin",
+            "experience": "mid level",
+            "status": "available",
+            "bio": "We are looking for a dynamic blah blah",
+            "contact email": "jimmy@jimmy.com",
+            "key-skills": ["people management", "php", "development"]
+        }
+    ],
+
+    "mentees": [
+        {
+            "id": "1",
+            "name": "Jane Doe",
+            "industry": "technology",
+            "company": "Awesome Software Inc",
+            "title": "Software Guru",
+            "location": "Berlin",
+            "experience": "junior",
+            "bio": "We are looking for a dynamic blah blah",
+            "contact": "jimmy@jimmy.com",
+            "seeking": ["people management", "php", "development"]
+        }
+    ]
+}
